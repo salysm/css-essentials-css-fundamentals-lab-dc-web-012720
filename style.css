@@ -16,5 +16,6 @@ a{
   background: blue;
 }
 figcaption{
-  font-size: 400
+  font-size: 300;
+  text-align: center 
 }
