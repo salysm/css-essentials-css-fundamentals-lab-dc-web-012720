@@ -9,3 +9,7 @@ header{
 img{
   align-content: center;
 }
+a{
+  padding: 10px
+  background: blue;
+}
