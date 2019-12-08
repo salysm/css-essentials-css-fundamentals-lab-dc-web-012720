@@ -23,3 +23,13 @@ figcaption{
   width: 800px;
   text-align: center
 }
+
+#details{
+  display: block;
+  float: left;
+}
+div{
+  background-color: white;
+  text-align: center;
+  width:25%;
+}
