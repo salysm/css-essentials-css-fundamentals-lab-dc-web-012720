@@ -13,9 +13,13 @@ img{
 }
 a{
   padding: 10px;
-  background: blue;
+  background: white;
 }
 figcaption{
   font-size: 300;
   text-align: center 
+}
+#featured-property{
+  width: 800px;
+  text-align: center
 }
